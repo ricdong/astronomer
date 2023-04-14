@@ -1,0 +1,2 @@
+astro-sdk-python[amazon,duckdb,google,postgres,snowflake]==1.5.3
+
